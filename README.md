@@ -1,56 +1,39 @@
-# 🎮 Tic Tac Toe Game
+# 🎮 Tic Tac Toe @manas
 
-A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Play against a friend, enjoy a clean design, and experience smooth gameplay right in your browser!
+Welcome to my simple and fun **Tic Tac Toe** web game made using **HTML, CSS, and JavaScript**!
 
----
-
-## 🚀 Live Demo
-
-👉 [Click here to play the live game](https://your-live-link.com)
+<img src="Screenshot.png" alt="Tic Tac Toe Screenshot" width="600"/>
 
 ---
 
-## 🧩 Features
+## 🕹️ Game Preview
 
-- 🔁 Player vs Player mode
-- ✅ Instant win or draw detection
-- 🧼 Clean and responsive design
-- ⚡ Fast, lightweight, and runs in your browser
+https://user-images.githubusercontent.com/your-github-username/game-preview.mp4  
+<!-- Replace this with the actual GitHub link to your uploaded video file -->
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Features
 
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📸 Screenshot
-
-![Game Screenshot](assets/screenshot.png)
+- Interactive 2-player mode
+- Visually appealing design
+- Smooth game logic and UI transitions
+- Fun animations and visual win indicators
+- Reset functionality to play again
 
 ---
 
-## 🎥 Demo Video
+## 👨‍💻 Technologies Used
 
-<video src="assets/tic-tac-toe-demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+- **HTML** – Structure of the game
+- **CSS** – Styling and layout
+- **JavaScript** – Game logic and interactivity
 
 ---
 
-## 🔧 Installation
+## 🧾 How to Play
 
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/tic-tac-toe.git
-
-# Navigate to the project folder
-cd tic-tac-toe
-
-# Open the game in your browser
-Open index.html
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
+   cd tic-tac-toe
