@@ -8,8 +8,7 @@ Welcome to my Tic Tac Toe game! This is a classic 2-player game built using **HT
 
 Check out the gameplay video below 👇
 
-https://github.com/manas1148/Tic_Tac_Toe/blob/main/Ttt.mp4  
-⬆️ *(Make sure this video file is named `Ttt.mp4` and placed in the same folder as this README)*
+https://github.com/user-attachments/assets/795fb67b-0278-487c-87be-d15431640f51
 
 ---
 
@@ -19,7 +18,8 @@ https://github.com/manas1148/Tic_Tac_Toe/blob/main/Ttt.mp4
 - Stylish design and animations
 - Win-line visual indicator
 - Reset game functionality
+- Relax tune on gameplay
 
 ---
 
-## 🚀 How to Run
+
