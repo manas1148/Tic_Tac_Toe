@@ -1,39 +1,25 @@
 # 🎮 Tic Tac Toe @manas
 
-Welcome to my simple and fun **Tic Tac Toe** web game made using **HTML, CSS, and JavaScript**!
-
-<img src="Screenshot.png" alt="Tic Tac Toe Screenshot" width="600"/>
+Welcome to my Tic Tac Toe game! This is a classic 2-player game built using **HTML**, **CSS**, and **JavaScript** with smooth interactions and a clean UI.
 
 ---
 
-## 🕹️ Game Preview
+## 🎥 Demo
 
-https://user-images.githubusercontent.com/your-github-username/game-preview.mp4  
-<!-- Replace this with the actual GitHub link to your uploaded video file -->
+Check out the gameplay video below 👇
 
----
-
-## 📌 Features
-
-- Interactive 2-player mode
-- Visually appealing design
-- Smooth game logic and UI transitions
-- Fun animations and visual win indicators
-- Reset functionality to play again
+https://github.com/your-username/your-repo-name/blob/main/Ttt.mp4  
+⬆️ *(Make sure this video file is named `Ttt.mp4` and placed in the same folder as this README)*
 
 ---
 
-## 👨‍💻 Technologies Used
+## 🧠 Features
 
-- **HTML** – Structure of the game
-- **CSS** – Styling and layout
-- **JavaScript** – Game logic and interactivity
+- Player vs Player mode
+- Stylish design and animations
+- Win-line visual indicator
+- Reset game functionality
 
 ---
 
-## 🧾 How to Play
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+## 🚀 How to Run
